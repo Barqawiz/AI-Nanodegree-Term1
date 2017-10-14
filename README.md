@@ -8,4 +8,5 @@ Algorithms in the field of AI written in python, each project submitted to revie
 1- Sudoku Game Solver Project
 2- Isolation Game Agent Project
 3- Simulated Annealing Traveling Salesman Problem (TSP) Project
-4- HMM Sign Language Recognizer Project 
+4- Cargo-Planning
+5- HMM Sign Language Recognizer Project 
