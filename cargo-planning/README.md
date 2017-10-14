@@ -9,21 +9,21 @@ python run_search.py -p 1 -s 1
 Available options: <br/>
 
 Problems <br/>
-    1. Air Cargo Problem 1
-    2. Air Cargo Problem 2
-    3. Air Cargo Problem 3
+1. Air Cargo Problem 1
+2. Air Cargo Problem 2
+3. Air Cargo Problem 3
 
 Search Algorithms <br/>
-    1. breadth_first_search
-    2. breadth_first_tree_search
-    3. depth_first_graph_search
-    4. depth_limited_search
-    5. uniform_cost_search
-    6. recursive_best_first_search h_1
-    7. greedy_best_first_graph_search h_1
-    8. astar_search h_1
-    9. astar_search h_ignore_preconditions
-    10. astar_search h_pg_levelsum
+1. breadth_first_search
+2. breadth_first_tree_search
+3. depth_first_graph_search
+4. depth_limited_search
+5. uniform_cost_search
+6. recursive_best_first_search h_1
+7. greedy_best_first_graph_search h_1
+8. astar_search h_1
+9. astar_search h_ignore_preconditions
+10. astar_search h_pg_levelsum
 
 
 ## Synopsis
@@ -45,7 +45,8 @@ My part in the project was to implement following functions:
 - `air_cargo_p2` function
 - `air_cargo_p3` function
 
-And write problem analysis in the document ( code_analysis.pdf )
+And write problem analysis in the document:<br>
+(code_analysis.pdf)
 
 ## Improving Execution Time
 
