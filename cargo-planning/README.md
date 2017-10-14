@@ -1,19 +1,19 @@
 
 # Implement a Planning Search
 
-##Run project
+## Run project
 Example terminal command to run project:
 ```
 python run_search.py -p 1 -s 1
 ```
-Available options:
+Available options: <br/>
 
-Problems
+Problems <br/>
     1. Air Cargo Problem 1
     2. Air Cargo Problem 2
     3. Air Cargo Problem 3
 
-Search Algorithms
+Search Algorithms <br/>
     1. breadth_first_search
     2. breadth_first_tree_search
     3. depth_first_graph_search
